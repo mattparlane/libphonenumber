@@ -22610,7 +22610,7 @@
             7[2-57-9]|
             9[2-9]
           </leadingDigits>
-          <format>$1-$2 $3</format>
+          <format>$1 $2 $3</format>
         </numberFormat>
         <!-- 0274, 0210 and toll-free/premium-rate prefixes 0508/0800/0900. -->
         <numberFormat pattern="(\d{3})(\d{3})(\d{3,4})" nationalPrefixFormattingRule="$NP$FG">
